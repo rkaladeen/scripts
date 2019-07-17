@@ -18,9 +18,9 @@ type nul>templates\%appname%\index.html
 mkdir static 
 mkdir static\%appname% 
 mkdir static\%appname%\css
-type nul>static\%appname%\style.css
+type nul>static\%appname%\css\style.css
 mkdir static\%appname%\js
-type nul>static\%appname%\scripts.js
+type nul>static\%appname%\js\scripts.js
 mkdir static\%appname%\images
 cd ..
 cd ..
